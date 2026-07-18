@@ -7,7 +7,7 @@ technical decisions, and public engineering work:
 
 **[tmgilliam.github.io](https://tmgilliam.github.io)**
 
-**AI Governance · Enterprise Architecture · ERP Transformation**
+**AI Governance Â· Enterprise Architecture Â· ERP Transformation**
 
 Founder of **Brilliant Brainstorm Intelligence (BBI)**. I build governed AI and operational intelligence systems that connect evidence, human authority, execution, and measurable business outcomes.
 
@@ -69,4 +69,3 @@ Every public repository should answer five questions quickly:
 ---
 
 > Build the system. Prove the work. Make history.
-
