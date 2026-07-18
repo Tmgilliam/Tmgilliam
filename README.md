@@ -1,0 +1,59 @@
+# Dr. Tatianna Gilliam
+
+**AI Governance · Enterprise Architecture · ERP Transformation**
+
+Founder of **Brilliant Brainstorm Intelligence (BBI)**. I build governed AI and operational intelligence systems that connect evidence, human authority, execution, and measurable business outcomes.
+
+## Current focus
+
+- Governed AI and agent execution
+- Enterprise data and ERP transformation
+- Evidence-first decision systems
+- Human-in-the-loop architecture
+- Public technical proof from private operating systems
+
+## Selected work
+
+### ERP AI Delay Risk
+An end-to-end enterprise machine-learning system for operational delay-risk prediction, including feature engineering, model evaluation, API delivery, batch and real-time scoring, and executive reporting.
+
+[View the repository](https://github.com/Tmgilliam/erp-ai-delay-risk)
+
+### BBI AI Readiness Diagnostic Kit
+A public, evidence-first toolkit for evaluating AI opportunities, data readiness, human oversight, risk, and implementation readiness before an organization builds.
+
+_Status: v0.1 launch preparation._
+
+### Governed Agent Execution Patterns
+A public reference for human authorization, evidence boundaries, tool permissions, execution receipts, verification, escalation, and failure handling.
+
+_Status: planned after the diagnostic kit ships._
+
+## How I work
+
+I favor systems that are:
+
+- **Evidence-first:** claims should trace to sources, assumptions, or clearly labeled recommendations.
+- **Governed:** human authority remains explicit where consequences matter.
+- **Operational:** a system should complete work, verify the result, and update the source of truth.
+- **Reusable:** every substantial build should produce a public-safe method, example, case study, or technical decision record.
+- **Honest:** prototypes are labeled prototypes; static examples are not presented as live systems.
+
+## Public build standard
+
+Every public repository should answer five questions quickly:
+
+1. What problem does this solve?
+2. Who is it for?
+3. How do I run it?
+4. What evidence shows that it works?
+5. What are its limitations?
+
+## Connect
+
+- [BBI Edge](https://bbiedge.com)
+- [LinkedIn](https://www.linkedin.com/in/drtatianna-dba)
+
+---
+
+> Build the system. Prove the work. Make history.
