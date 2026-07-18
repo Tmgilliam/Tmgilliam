@@ -1,4 +1,11 @@
-﻿# Dr. Tatianna Gilliam
+# Dr. Tatianna Gilliam
+
+## Technical Portfolio
+
+Explore my enterprise AI, ERP transformation, cloud architecture,
+technical decisions, and public engineering work:
+
+**[tmgilliam.github.io](https://tmgilliam.github.io)**
 
 **AI Governance · Enterprise Architecture · ERP Transformation**
 
