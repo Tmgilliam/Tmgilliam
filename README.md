@@ -4,6 +4,10 @@
 
 Founder of **Brilliant Brainstorm Intelligence (BBI)**. I build governed AI and operational intelligence systems that connect evidence, human authority, execution, and measurable business outcomes.
 
+## Company
+
+Founder of [Brilliant Brainstorm Intelligence, LLC](https://github.com/Brilliant-Brainstorm-Intelligence-LLC), building governed AI, enterprise architecture, and ERP transformation systems that convert complexity into operational proof.
+
 ## Current focus
 
 - Governed AI and agent execution
@@ -23,7 +27,7 @@ An end-to-end enterprise machine-learning system for operational delay-risk pred
 
 An evidence-first public toolkit for evaluating AI business value, data readiness, human oversight, governance, delivery readiness, and evidence quality before implementation.
 
-[View the repository](https://github.com/Tmgilliam/bbi-ai-readiness-diagnostic-kit)
+[View the repository](https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit)
 
 ### Governed Agent Execution Patterns
 A public reference for human authorization, evidence boundaries, tool permissions, execution receipts, verification, escalation, and failure handling.
