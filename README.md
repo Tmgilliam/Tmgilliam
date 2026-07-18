@@ -1,4 +1,4 @@
-# Dr. Tatianna Gilliam
+﻿# Dr. Tatianna Gilliam
 
 **AI Governance · Enterprise Architecture · ERP Transformation**
 
@@ -20,9 +20,10 @@ An end-to-end enterprise machine-learning system for operational delay-risk pred
 [View the repository](https://github.com/Tmgilliam/erp-ai-delay-risk)
 
 ### BBI AI Readiness Diagnostic Kit
-A public, evidence-first toolkit for evaluating AI opportunities, data readiness, human oversight, risk, and implementation readiness before an organization builds.
 
-_Status: v0.1 launch preparation._
+An evidence-first public toolkit for evaluating AI business value, data readiness, human oversight, governance, delivery readiness, and evidence quality before implementation.
+
+[View the repository](https://github.com/Tmgilliam/bbi-ai-readiness-diagnostic-kit)
 
 ### Governed Agent Execution Patterns
 A public reference for human authorization, evidence boundaries, tool permissions, execution receipts, verification, escalation, and failure handling.
