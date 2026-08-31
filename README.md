@@ -77,32 +77,32 @@ Machine-synced from the public-proof registry. Narrative sections above remain h
 
 ### Approved public projects
 
-- **Dr. Tatianna Gilliam Technical Portfolio** â€” Released
+- **Dr. Tatianna Gilliam Technical Portfolio** — Released
   - Executive technical portfolio for enterprise AI, cloud architecture, ERP transformation, and governed systems.
   - Repository: https://github.com/Tmgilliam/tmgilliam.github.io
   - Release: https://github.com/Tmgilliam/tmgilliam.github.io/releases/tag/v0.1.0
   - Live: https://tmgilliam.github.io
   - Last verified: 2026-07-18
 
-- **BBI AI Readiness Diagnostic Kit** â€” Released
+- **BBI AI Readiness Diagnostic Kit** — Released
   - Evidence-first toolkit for assessing AI business value, data readiness, human oversight, governance, delivery readiness, and evidence quality.
   - Repository: https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit
   - Release: https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit/releases/tag/v0.1.0
   - Last verified: 2026-07-18
 
-- **ERP AI Delay Risk** â€” Active / In Review
+- **ERP AI Delay Risk** — Active / In Review
   - Portfolio machine-learning system for operational delay-risk prediction, including feature engineering, evaluation, and API delivery patterns.
   - Repository: https://github.com/Tmgilliam/erp-ai-delay-risk
   - Last verified: 2026-07-18
 
-- **Governed Agent Execution Patterns** â€” Planned
+- **Governed Agent Execution Patterns** — Planned
   - Planned public reference for authorization, evidence boundaries, tool permissions, execution receipts, verification, and escalation.
   - Last verified: 2026-07-18
 
 ### Approved public releases
 
-- [v0.1.0 â€” MTP recruiter portfolio and executive technical hub](https://github.com/Tmgilliam/tmgilliam.github.io/releases/tag/v0.1.0) (2026-07-18)
-- [v0.1.0 â€” Evidence-first AI readiness diagnostic](https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit/releases/tag/v0.1.0) (2026-07-18)
+- [v0.1.0 — MTP recruiter portfolio and executive technical hub](https://github.com/Tmgilliam/tmgilliam.github.io/releases/tag/v0.1.0) (2026-07-18)
+- [v0.1.0 — Evidence-first AI readiness diagnostic](https://github.com/Brilliant-Brainstorm-Intelligence-LLC/bbi-ai-readiness-diagnostic-kit/releases/tag/v0.1.0) (2026-07-18)
 
 ### Approved public links
 
@@ -113,7 +113,6 @@ Machine-synced from the public-proof registry. Narrative sections above remain h
 - [Technical Portfolio](https://tmgilliam.github.io)
 
 <!-- BBI-PUBLIC-AUTO:END -->
-
 ## How I work
 
 - **Evidence-first:** claims trace to sources, assumptions, or clearly labeled recommendations.
